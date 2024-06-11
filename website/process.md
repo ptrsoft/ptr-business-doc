@@ -18,17 +18,26 @@ Brief :
 
 Tasks -
 -- Create Information Architecture
+
 -- Create Functional Design
+
 -- Create Use Case Document
+
 -- Create UX Design Designs
+
 -- Do UX design review with tech team
 
 Checklists -
 -- Information Architecture and Functional Design is published in Business Docs
+
 -- Use Case Document is published in Use Cases Matrix
+
 -- UX  Design is published in Use Cases Matrix
+
 -- ROI Analysys is published in Use Cases Matrix
+
 -- Functional Design Review meeting is done with Technical Team
+
 -- Scrum Planning with Micro Level Task Allocation is done
 
                         2. Mock Dev
@@ -39,20 +48,33 @@ Project manager will review the functional design with UI and API team. API team
 
 Tasks
 -- Create OpenApi Specification
+
 -- Create Postman Tests for OpenAPi specification
+
 -- Create UI screens 
+
 -- Create API simulator
+
 -- Create Test Data and integrate in simulator
+
 -- Integrate UI with Mock API
+
 -- Create Test Plans
 
 Checklists --
+
 -- Finalized API Specification is available in github
+
 -- API spec Review meeting is done with UI /API Team
+
 -- API specification is published
+
 -- UI code is available in GitHub that works with Mock API
+
 -- The code has adequate build / test instructions to run mock server and review UI
+
 -- Test Plans is available in Git and is published in Use Cases Matrix
+
 -- Data Design Page is published in Use Cases Matrix
 
 
@@ -63,26 +85,43 @@ Once API is consolidated with test data, API team implement the API specs and UI
 ![alt text](image-9.png)     
 
 Tasks
+
 -- Create API source Code in GitHub 
+
 -- Create Junit5 Tests in GitHub
+
 -- Create Cucumber BDD tests in GitHub
+
 -- Create Gatling Performance/ Load Tests in GitHub
+
 -- Do Code Review with Tech Lead
+
 -- Do Actual UI-API integration
+
 -- Do Branch Merge After review
 
 Checklists --
 
--- API Development followed the git flow of projects ( our gitops workflow like branching/ merging  etc) to develop actual API
+-- API Development followed the git flow of projects (our gitops workflow like branching/ merging  etc) to develop actual API
+
 -- API sample data is available in GitHub
+
 -- Adequate readme instruction is available in GitHub to run with sample data
+
 -- API are tested against postman collection generated in mock stage
+
 -- All unit / functional / performance tests are written and kept in GitHub
+
 -- All functional /performance tests meet SLA's
+
 -- All functional / Performance Tests
+
 -- Actual API works with UI by simply changing Base URL
+
 -- API follows 10 Points API security verification
+
 -- API is properly instrumented for performance metrics / logs / traces
+
 -- Perf Metrics / Logs / Trace destination is configured
 
                             4.CI/CD/Tests
@@ -92,22 +131,35 @@ This phase involves writing the automation scripts for deplyment and update/ upg
 
 Tasks
 -- CI/CD pipeline is created with  common builders/  deployer's / testers that we have created - custom tekton building blocks. 
+
 -- Kubernetes Operator is created for the services that goes in cluster
+
 -- Deploy in Test ENV via CI/CD pipeline
+
 -- Do acceptance tests in test ENV
+
 -- Upload Test results in S3 website and link with UseCase Matrix Page
+
 -- Upload Test ENV URL in UseCase Matrix
+
 -- Promote to stage env after revew with business lead.
 
 
 Checklists –
 -- Test results are loaded in S3 website and published
+
 -- Test ENV URL is accessible in UseCase Matrix Site
+
 -- CI/CD pipeline is integrated with tests(Unit / functional ATP / performance )
+
 -- CI/CD pipeline can deploy the service in test ENV with sample data
+
 -- CI/CD pipeline has the post-deployment verification available
+
 -- Adequate readme instruction is available in GitHub to run the CI/CD pipeline
+
 -- Stage ENV URL is accessible from UseCase Matrix
+
 -- Adequate readme instruction is available to run stage testing by PM
 
                         5. Promote To Release
