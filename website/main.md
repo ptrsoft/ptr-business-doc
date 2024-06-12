@@ -1,53 +1,63 @@
 Welcome to PTR SAAS Platform:
 
-At our PTR SAAS, we provide you with applications that are fully open and customizable, 
-allowing you to add new features with ease. Our platform is designed to offer the highest 
-level of flexibility to meet your specific business needs.
+Unlock Unlimited Potential with Fully Customizable Open SAAS Solutions
 
-What We Offer
+At PTR SAAS, we deliver fully open and customizable applications, empowering you to effortlessly add new features. Our platform is built to provide maximum flexibility, ensuring it meets your unique business requirements.
+
+- Single Tenant App- Fully private, Fully Customizable
+- Zero Tech debt- App with all artifacts
+- Complete Open - You own it, you change it with no limit
+- Highest flexibility - Any cloud / Any Changes
+- One click E2E Engineering Team Available Ondemand to make changes
+- Vendor Friendly -Deliver Apps to your own customers
+
+
+                                What We Offer
 
 #  Open and Customizable Applications
 
 Our applications are designed to be completely open, giving you the freedom to customize and extend functionality as your business grows. Whether you need to add new features or integrate with other systems, our platform makes it easy and straightforward.
 
+Learn more about the backend Technology that we use to write high quality cloud native microservices Appliocation quicly, that offers highest flexibility.
+
+Learn More Button.
+
 #  Ondemand Single Tenant Application Space
 
-Our SAAS applications are single tenant , giving you the highest flexibility to make changes specific to your business need.
+Our SAAS applications are single tenant , giving you the highest flexibility to make changes specific to your business need.Please refer our SAAS backend platform and technology that we 
+use to deliver microservices based enterprise App with full operation management platform.
+
+Learn More Button (I will give)
 
 # High Quality Application with Zero Tech Debt 
 
 At PTR Technology, for every use case that we develop, we follow a robust and efficient software development process designed to deliver high-quality solutions tailored to meet our clients' unique needs. Our approach combines industry best practices with innovative techniques to ensure that every use case is reliable, scalable, and secure and contains all software artifacts.
 
-Here follows a typical use case cycle. Learn More Button
+Here follows a typical use case development life cycle. Learn More Button(process.md)
 Here follows a typical UXD process cycle. Learn More Button
-
 
 ## Apps built with Most modern cloud native architectures
 
 Whether you're a writing a small mobility App or a large scale enterprise product, we have something for you. Explore our architecture central to learn about the principles, patterns, practices, and tools that we follow to deliver you the solution that is simple, promotes reusability and flexibility and of course very cost effective.
 
-Learn More button
+Learn More button (Arcitecture Page)
 
 # On-Demand Engineering Teams
 
 Hire Certified Engineers Instantly
 
 Need additional engineering resources? Hire a complete engineering team on demand through our portal. Our pool of certified professionals is ready to join your project instantly, ensuring 
-you have the talent you need, when you need it.
-
-
-## Predictable Delivery and Outcome-Driven Billing
-
-We understand the importance of predictable outcomes. That’s why our teams work with a clear delivery plan and a billing model that is driven by results. You only pay for the value delivered, ensuring cost-effectiveness and transparency.
+you have the talent you need, when you need it.We understand the importance of predictable outcomes. That’s why our teams work with a clear delivery plan and a billing model that is driven by results. You only pay for the value delivered, ensuring cost-effectiveness and transparency.
 
 You will instantly create a complete Engineering Team in few clicks as below:
 
 ![alt text](image-13.png)
 
-Please look at the typical team structure , Learn More button
+Please look at the typical team structure , Learn More button(team.md)
 
 
 How It Works
+
 Sign Up and Get Started
 
 Create an account on our platform and gain access to our suite of open and customizable applications.
