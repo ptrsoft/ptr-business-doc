@@ -10,6 +10,7 @@ To know the details of every stages,task, checklists, Quality gates,Artifacts , 
                       1. Requirement    
 
 Brief : 
+
     Requirement is the stage in which Project Manager will collect as much information from Project Owner and create a business model to carry out development process. Which will be periodically reviewed by project owner and once business and functional module is finalised project manager will proceed with Scrum planning.                       
 
 
@@ -17,6 +18,7 @@ Brief :
 
 
 Tasks -
+
 -- Create Information Architecture
 
 -- Create Functional Design
@@ -28,6 +30,7 @@ Tasks -
 -- Do UX design review with tech team
 
 Checklists -
+
 -- Information Architecture and Functional Design is published in Business Docs
 
 -- Use Case Document is published in Use Cases Matrix
@@ -41,12 +44,14 @@ Checklists -
 -- Scrum Planning with Micro Level Task Allocation is done
 
                         2. Mock Dev
+Brief : 
 
-Project manager will review the functional design with UI and API team. API team will provide API specs to review.UI team will then create UI screens, create Mock API then integrate Mock API with UI Screens. API team will create data design, and create Test data. Once PM reviews MocK integration API team will consolidate API with Test data 
+    Project manager will review the functional design with UI and API team. API team will provide API specs to review.UI team will then create UI screens, create Mock API then integrate Mock API with UI Screens. API team will create data design, and create Test data. Once PM reviews MocK integration API team will consolidate API with Test data 
                     
 ![alt text](image-8.png)
 
-Tasks
+Tasks-
+
 -- Create OpenApi Specification
 
 -- Create Postman Tests for OpenAPi specification
@@ -79,12 +84,13 @@ Checklists --
 
 
                         3. Actual Development
+Brief:
 
-Once API is consolidated with test data, API team implement the API specs and UI team will integrate UI with Actual API and PM will review this integration.
+    Once API is consolidated with test data, API team implement the API specs and UI team will integrate UI with Actual API and PM will review this integration.
 
 ![alt text](image-9.png)     
 
-Tasks
+Tasks-
 
 -- Create API source Code in GitHub 
 
@@ -125,11 +131,14 @@ Checklists --
 -- Perf Metrics / Logs / Trace destination is configured
 
                             4.CI/CD/Tests
-This phase involves writing the automation scripts for deplyment and update/ upgrade and test it as per the test plan and get it ready for staging environment for review.
+Brief:
+
+    This phase involves writing the automation scripts for deplyment and update/ upgrade and test it as per the test plan and get it ready for staging environment for review.
 
 ![alt text](image-10.png)
 
-Tasks
+Tasks-
+
 -- CI/CD pipeline is created with  common builders/  deployer's / testers that we have created - custom tekton building blocks. 
 
 -- Kubernetes Operator is created for the services that goes in cluster
@@ -146,6 +155,7 @@ Tasks
 
 
 Checklists –
+
 -- Test results are loaded in S3 website and published
 
 -- Test ENV URL is accessible in UseCase Matrix Site
@@ -162,9 +172,52 @@ Checklists –
 
 -- Adequate readme instruction is available to run stage testing by PM
 
-                        5. Promote To Release
+                        5. Promote To Staging
+Brief:
 
+This stage involves moving features from test environment to stage environment and do production qualification tests.
 
 ![alt text](image-11.png)
+
+Tasks-
+
+-- Stage tests and review by PM
+
+-- PM Promote from Stage to Prod
+
+-- PM performs API security tests in prod
+
+-- PM creates/updates release notes
+
+Checklists -
+
+-- Stage Tests results are loaded in S3 website and linked with UseCase Matrix
+
+-- Prod ENV URL is accessible from release notes
+
+-- Prod ENV security Tests are accessible in UseCase Matrix
+
+-- Updated Product release is available in GitHub 
+
+                        6. Publish && Operate
+
+Brief:
+This stage involves the verification of operation readiness and publishing the release notes to customers.
+
+Tasks-
+
+-- Prod ENV are reviewed by DevOps team from security & operation readiness perspective
+
+-- PM announce the release note to world
+
+Checklist -
+
+-- Prod ENV confirms API security guideline
+
+-- Prod ENV rightly integrate with performance / trace / log manager
+
+-- Final announcement email is circulated to customers with a link to release note by PM
+
+
 
 
