@@ -6,42 +6,46 @@ level of flexibility to meet your specific business needs.
 
 What We Offer
 
-Open and Customizable Applications
+#  Open and Customizable Applications
 
 Our applications are designed to be completely open, giving you the freedom to customize and extend functionality as your business grows. Whether you need to add new features or integrate with other systems, our platform makes it easy and straightforward.
 
-Ondemand Single Tenant Application Space
+#  Ondemand Single Tenant Application Space
 
 Our SAAS applications are single tenant , giving you the highest flexibility to make changes specific to your business need.
 
-High Quality Application with Zero Tech Debt 
+# High Quality Application with Zero Tech Debt 
 
 At PTR Technology, for every use case that we develop, we follow a robust and efficient software development process designed to deliver high-quality solutions tailored to meet our clients' unique needs. Our approach combines industry best practices with innovative techniques to ensure that every use case is reliable, scalable, and secure and contains all software artifacts.
 
-Here follows a typical use case cycle.
+Here follows a typical use case cycle. Learn More Button
+Here follows a typical UXD process cycle. Learn More Button
 
-Apps built with Most modern cloud native architectures
+
+## Apps built with Most modern cloud native architectures
 
 Whether you're a writing a small mobility App or a large scale enterprise product, we have something for you. Explore our architecture central to learn about the principles, patterns, practices, and tools that we follow to deliver you the solution that is simple, promotes reusability and flexibility and of course very cost effective.
 
 Learn More button
 
-On-Demand Engineering Teams
+# On-Demand Engineering Teams
 
 Hire Certified Engineers Instantly
 
 Need additional engineering resources? Hire a complete engineering team on demand through our portal. Our pool of certified professionals is ready to join your project instantly, ensuring 
 you have the talent you need, when you need it.
 
-Learn More button
 
-Predictable Delivery and Outcome-Driven Billing
+## Predictable Delivery and Outcome-Driven Billing
 
 We understand the importance of predictable outcomes. That’s why our teams work with a clear delivery plan and a billing model that is driven by results. You only pay for the value delivered, ensuring cost-effectiveness and transparency.
 
 You will instantly create a complete Engineering Team in few clicks as below:
 
 ![alt text](image-13.png)
+
+Please look at the typical team structure , Learn More button
+
 
 How It Works
 Sign Up and Get Started
@@ -76,6 +80,7 @@ Outcome-Driven Billing: Enjoy a predictable and transparent billing model focuse
 
 
 Get Started Today
+
 Ready to experience the flexibility and power of [Your SAAS Platform Name]? Sign up now and start customizing your applications and hiring on-demand engineering teams.
 
 [Sign Up Now] [Contact Us]
