@@ -228,6 +228,9 @@ Checklists -
 This stage involves the verification of operation readiness and publishing the release notes 
 to customers.
 
+![alt text](image-12.png)
+
+
 Tasks-
 
 -- Prod ENV are reviewed by DevOps team from security & operation readiness perspective
