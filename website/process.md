@@ -56,9 +56,12 @@ Checklists -
 
 ## Brief : 
 
-    Project manager will review the functional design with UI and API team. API team will 
-    provide API specs to review.UI team will then create UI screens, create Mock API then integrate Mock API with UI Screens. API team will create data design, and create Test 
-    data. Once PM reviews MocK integration API team will consolidate API with Test data 
+    Project manager will review the functional design with UI and API team. API 
+    team will provide API specs to review.UI team will then create UI screens, 
+    create Mock API then integrate Mock API with UI Screens. API team will create 
+    data design, and create Test data. Once PM reviews MocK integration API team 
+    will consolidate API with Test data.
+
                     
 ![alt text](image-8.png)
 
@@ -99,8 +102,8 @@ Checklists --
 
 ## Brief:
 
-    Once API is consolidated with test data, API team implement the API specs and UI 
-    team will integrate UI with Actual API and PM will review this integration.
+    Once API is consolidated with test data, API team implement the API specs and 
+    UI team will integrate UI with Actual API and PM will review this integration.
 
 ![alt text](image-9.png)     
 
@@ -122,7 +125,8 @@ Tasks-
 
 Checklists --
 
--- API Development followed the git flow of projects (our gitops workflow like branching/ merging  etc) to develop actual API
+-- API Development followed the git flow of projects (our gitops workflow like branching/ 
+merging  etc) to develop actual API
 
 -- API sample data is available in GitHub
 
