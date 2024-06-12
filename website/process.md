@@ -13,9 +13,9 @@ To know the details of every stages,task, checklists, Quality gates,Artifacts , 
 ![alt text](image-7.png)
 
 
-                      1. Requirement    
+# 1. Requirement    
 
-Brief : 
+## Brief : 
 
     Requirement is the stage in which Project Manager will collect as much information from 
     Project Owner and create a business model to carry out development process. Which will be 
@@ -52,10 +52,13 @@ Checklists -
 
 -- Scrum Planning with Micro Level Task Allocation is done
 
-                        2. Mock Dev
-Brief : 
+# 2. Mock Dev
 
-    Project manager will review the functional design with UI and API team. API team will provide API specs to review.UI team will then create UI screens, create Mock API then integrate Mock API with UI Screens. API team will create data design, and create Test data. Once PM reviews MocK integration API team will consolidate API with Test data 
+## Brief : 
+
+    Project manager will review the functional design with UI and API team. API team will 
+    provide API specs to review.UI team will then create UI screens, create Mock API then integrate Mock API with UI Screens. API team will create data design, and create Test 
+    data. Once PM reviews MocK integration API team will consolidate API with Test data 
                     
 ![alt text](image-8.png)
 
@@ -92,10 +95,12 @@ Checklists --
 -- Data Design Page is published in Use Cases Matrix
 
 
-                        3. Actual Development
-Brief:
+# 3. Actual Development
 
-    Once API is consolidated with test data, API team implement the API specs and UI team will integrate UI with Actual API and PM will review this integration.
+## Brief:
+
+    Once API is consolidated with test data, API team implement the API specs and UI 
+    team will integrate UI with Actual API and PM will review this integration.
 
 ![alt text](image-9.png)     
 
@@ -139,10 +144,12 @@ Checklists --
 
 -- Perf Metrics / Logs / Trace destination is configured
 
-                            4.CI/CD/Tests
-Brief:
+# 4.CI/CD/Tests
 
-    This phase involves writing the automation scripts for deplyment and update/ upgrade and test it as per the test plan and get it ready for staging environment for review.
+## Brief:
+
+    This phase involves writing the automation scripts for deplyment and update/ upgrade 
+    and test it as per the test plan and get it ready for staging environment for review.
 
 ![alt text](image-10.png)
 
@@ -181,10 +188,12 @@ Checklists –
 
 -- Adequate readme instruction is available to run stage testing by PM
 
-                        5. Promote To Staging
-Brief:
+# 5. Promote To Staging
 
-This stage involves moving features from test environment to stage environment and do production qualification tests.
+## Brief:
+
+This stage involves moving features from test environment to stage environment and do 
+production qualification tests.
 
 ![alt text](image-11.png)
 
@@ -208,10 +217,12 @@ Checklists -
 
 -- Updated Product release is available in GitHub 
 
-                        6. Publish && Operate
+# 6. Publish && Operate
 
-Brief:
-This stage involves the verification of operation readiness and publishing the release notes to customers.
+## Brief:
+
+This stage involves the verification of operation readiness and publishing the release notes 
+to customers.
 
 Tasks-
 
