@@ -1,8 +1,8 @@
                         Our Software Development Process
-At PTR Technology, for every use case that we develop,we follow a robust and efficient \n
-software development process designed to deliver high-quality solutions tailored to meet \n
-our clients' unique needs. Our approach combines industry best practices with innovative \n
-techniques to ensure that every usecases are reliable, scalable, and secure.Here follows \n
+At PTR Technology, for every use case that we develop,we follow a robust and efficient 
+software development process designed to deliver high-quality solutions tailored to meet 
+our clients' unique needs. Our approach combines industry best practices with innovative 
+techniques to ensure that every usecases are reliable, scalable, and secure.Here follows 
 a typical UseCase cycle.
 
 
@@ -17,9 +17,9 @@ To know the details of every stages,task, checklists, Quality gates,Artifacts , 
 
 Brief : 
 
-    Requirement is the stage in which Project Manager will collect as much information from \n
-    Project Owner and create a business model to carry out development process. Which will be \n
-    periodically reviewed by project owner and once business and functional module is finalised \n
+    Requirement is the stage in which Project Manager will collect as much information from 
+    Project Owner and create a business model to carry out development process. Which will be 
+    periodically reviewed by project owner and once business and functional module is finalised 
     project manager will proceed with Scrum planning.                       
 
 
