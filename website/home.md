@@ -14,20 +14,11 @@ At PTR SAAS, we deliver fully open and customizable applications, empowering you
 
                                 What We Offer
 
-#  Open and Customizable Applications
+#  Open and Customizable Single Tenant Applications
 
-Our applications are designed to be completely open, giving you the freedom to customize and extend functionality as your business grows. Whether you need to add new features or integrate with other systems, our platform makes it easy and straightforward.
+Experience unparalleled flexibility with our single-tenant SAAS applications,that is open and tailored to your unique business needs. Explore our robust backend platform and cutting-edge technology, delivering microservices-based enterprise apps with comprehensive operations management.
 
-Learn more about the backend Technology that we use to write high quality cloud native microservices Appliocation quicly, that offers highest flexibility.
-
-Learn More Button.
-
-#  Ondemand Single Tenant Application Space
-
-Our SAAS applications are single tenant , giving you the highest flexibility to make changes specific to your business need.Please refer our SAAS backend platform and technology that we 
-use to deliver microservices based enterprise App with full operation management platform.
-
-Learn More Button (I will give)
+Learn More Button (saas-architecture.md)
 
 # High Quality Application with Zero Tech Debt 
 
@@ -46,8 +37,7 @@ Learn More button (Arcitecture Page)
 
 Hire Certified Engineers Instantly
 
-Need additional engineering resources? Hire a complete engineering team on demand through our portal. Our pool of certified professionals is ready to join your project instantly, ensuring 
-you have the talent you need, when you need it.We understand the importance of predictable outcomes. That’s why our teams work with a clear delivery plan and a billing model that is driven by results. You only pay for the value delivered, ensuring cost-effectiveness and transparency.
+Need additional engineering resources? Hire a complete engineering team on demand through our portal. Our pool of certified professionals is ready to join your project instantly, ensuring you have the talent you need, when you need it.We understand the importance of predictable outcomes. That’s why our teams work with a clear delivery plan and a billing model that is driven by results. You only pay for the value delivered, ensuring cost-effectiveness and transparency.
 
 You will instantly create a complete Engineering Team in few clicks as below:
 
