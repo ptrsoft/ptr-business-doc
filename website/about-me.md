@@ -72,6 +72,15 @@ CTO - Synectiks Inc , Nov 2016 - May 2024
 
 As the CTO of Synectiks Inc, I have taken the company from a pure storage service to a Product driven cloud service provider with some esteemed customers like US Defence, Argus Media.I was responsible for overseeing all aspects of the Organization Building, Product development and automation at Appkube platform including innovation, provocation, development and operations.
 
+Pioneered and championed a Appblocks Tecnology Framework that reduce the cloudnative monolith to microservice transformation effort by 50%.
+
+Developed a mechanism for auto-discovery of distributed microservices and auto enablement of their operation dashboard and alerting systems that reduce operation management effort 70%.
+
+Developed a extendible SRE framework based on small plugin based golang CLI tooling that increased productivty by 50%.
+
+Repeatedly delivered cloud Migration and modernization projects to enterprise customers with 100% SLE's.
+
+
 
 Consultant Technologist , Hitachi Data System, August 2016-October 2016
 
